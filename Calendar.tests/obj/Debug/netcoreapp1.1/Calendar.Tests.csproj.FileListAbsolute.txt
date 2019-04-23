@@ -1,0 +1,14 @@
+D:\Users\TheKerj\desktop\calendar.solution\calendar.tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Users\TheKerj\desktop\calendar.solution\calendar.tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Users\TheKerj\desktop\calendar.solution\calendar.tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Users\TheKerj\desktop\calendar.solution\calendar.tests\bin\Debug\netcoreapp1.1\Calendar.Tests.deps.json
+D:\Users\TheKerj\desktop\calendar.solution\calendar.tests\bin\Debug\netcoreapp1.1\Calendar.Tests.runtimeconfig.json
+D:\Users\TheKerj\desktop\calendar.solution\calendar.tests\bin\Debug\netcoreapp1.1\Calendar.Tests.runtimeconfig.dev.json
+D:\Users\TheKerj\desktop\calendar.solution\calendar.tests\bin\Debug\netcoreapp1.1\Calendar.Tests.dll
+D:\Users\TheKerj\desktop\calendar.solution\calendar.tests\bin\Debug\netcoreapp1.1\Calendar.Tests.pdb
+D:\Users\TheKerj\desktop\calendar.solution\calendar.tests\bin\Debug\netcoreapp1.1\Calendar.dll
+D:\Users\TheKerj\desktop\calendar.solution\calendar.tests\bin\Debug\netcoreapp1.1\Calendar.pdb
+D:\Users\TheKerj\desktop\calendar.solution\calendar.tests\obj\Debug\netcoreapp1.1\Calendar.Tests.csproj.CoreCompileInputs.cache
+D:\Users\TheKerj\desktop\calendar.solution\calendar.tests\obj\Debug\netcoreapp1.1\Calendar.Tests.AssemblyInfo.cs
+D:\Users\TheKerj\desktop\calendar.solution\calendar.tests\obj\Debug\netcoreapp1.1\Calendar.Tests.dll
+D:\Users\TheKerj\desktop\calendar.solution\calendar.tests\obj\Debug\netcoreapp1.1\Calendar.Tests.pdb
